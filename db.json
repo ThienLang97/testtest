@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "iphone",
+      "id": 1,
+      "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4d%2FCat_November_2010-1a.jpg%2F300px-Cat_November_2010-1a.jpg&tbnid=V6QjJ97rMrmZ0M&vet=12ahUKEwiC_YOciNmCAxVUMN4KHcGeBUgQMygAegQIARBL..i&imgrefurl=https%3A%2F%2Fvi.wikipedia.org%2Fwiki%2FM%25C3%25A8o&docid=O0FLyCMGQrkQNM&w=300&h=401&q=m%C3%A8o&ved=2ahUKEwiC_YOciNmCAxVUMN4KHcGeBUgQMygAegQIARBL"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "name": "lá cờ",
+      "img": "https://firebasestorage.googleapis.com/v0/b/js09-e6f62.appspot.com/o/images%2Fb%C3%BAa%20li%E1%BB%81m.jpg?alt=media&token=8ff4306a-8e44-47fc-8e5d-8dd86519da98",
+      "id": 4
+    },
+    {
+      "name": "code",
+      "img": "https://firebasestorage.googleapis.com/v0/b/js09-e6f62.appspot.com/o/images%2FUntitled.png?alt=media&token=e4860351-c91d-49c2-a0d6-9303f3ee0363",
+      "id": 5
+    }
+  ]
+}
